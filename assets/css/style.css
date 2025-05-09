@@ -28,3 +28,20 @@ html, body {
 .landing-box h1{
     margin-bottom: 15px;
 }
+
+.landing-box .btn{
+    background-color: #ffc107;
+    border-radius: 20px;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+}
+
+.landing-box .btn:hover {
+    background-color: #e0a800;
+    transform: scale(1.05);
+    color: #fff;
+}
