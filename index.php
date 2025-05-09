@@ -4,12 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meal Planner</title>
-    <link rel="stylesheet" href="./assets/style.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 <body>
 
-    <h1>Welcome to Weekly Meal Planner</h1>
-    <a href=".page/meal-planner/index.php">View Meal Plan</a>
+    <div class="container">
+        <h1>Welcome to Weekly Meal Planner</h1>
+        <p><a href=".page/meal-planner/index.php">View Meal Plan</a></p>
+    </div>
     
     <script src="./assets/js/script.js"></script>
 </body>
