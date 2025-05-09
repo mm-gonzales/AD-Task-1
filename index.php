@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="./assets/style.css">
 </head>
 <body>
+
+    <h1>Weekly Meal Planner</h1>
     
     <script src="./assets/js/script.js"></script>
 </body>
