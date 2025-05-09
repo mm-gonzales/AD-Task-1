@@ -10,7 +10,7 @@
 <body>
 
     <div class="container py-5">
-        
+        <h1 class = "text-center">Weekly Meal Plan</h1>
     </div>
 </body>
 </html>
