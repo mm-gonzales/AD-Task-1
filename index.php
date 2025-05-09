@@ -13,7 +13,7 @@
         <div class="landing-box">
             <h1 class="mb-4">Welcome to Meal Planner</h1>
             <a href="pages/meal-planner/index.php" class="btn btn-warning fw-bold">View Weekly Plan</a>
-            </div>
+        </div>
     </div>
 
     <script src="./assets/js/script.js"></script>
