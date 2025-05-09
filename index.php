@@ -9,11 +9,11 @@
 </head>
 <body>
 
-    <div class="container">
-        <h1>Welcome to Weekly Meal Planner</h1>
-        <p><a href=".page/meal-planner/index.php">View Meal Plan</a></p>
-    </div>
+   <div class="container-fluid ">
+      <h1 class="mb-4">Welcome to Meal Planner</h1>
+      <a href="pages/meal-planner/index.php" class="btn btn-warning fw-bold">View Weekly Plan</a>
+  </div>  
     
-    <script src="./assets/js/script.js"></script>
+  <script src="./assets/js/script.js"></script>
 </body>
 </html>
