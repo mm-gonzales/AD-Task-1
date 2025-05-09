@@ -26,7 +26,8 @@ html, body {
 }
 
 .landing-box h1{
-    margin-bottom: 15px;
+    margin-bottom: 25px;
+    font-size: 4em;
 }
 
 .landing-box .btn{
