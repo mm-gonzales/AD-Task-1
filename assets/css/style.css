@@ -34,6 +34,7 @@ html, body {
     text-align: center;
     color: white;
     padding: 40px 60px;
+    z-index: 2;
 }
 
 .landing-box h1{
