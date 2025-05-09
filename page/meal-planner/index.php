@@ -24,7 +24,11 @@
                 </thead>
                 <tbody>
                     <?php 
-                    
+                        $week = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday',
+                        'Saturday', 'Sunday'];
+                        $meals = [
+                            ['Cereal', 'Wraps', 'BBQ Chicken'],  ['Bagel', 'Rice & Beans', 'Pizza'], ['French Toast', 'Ramen', 'Seafood'],  ['Smoothie', 'Pasta', 'Steak'], ['Oatmeal', 'Grilled Cheese', 'Tacos'], ['Toast & Eggs', 'Burger & Fries', 'Sushi'], ['Pancakes', 'Chicken Salad', 'Spaghetti']
+                        ];
                     ?>
 
                 </tbody>
