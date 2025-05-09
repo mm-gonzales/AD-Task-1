@@ -12,7 +12,7 @@
     <div class="container-fluid landing-wrapper">
         <div class="landing-box">
             <h1 class="mb-4">Welcome to Meal Planner</h1>
-            <a href="pages/meal-planner/index.php" class="btn btn-warning fw-bold">View Weekly Plan</a>
+            <a href="./page/meal-planner/index.php" class="btn btn-warning fw-bold">View Weekly Plan</a>
         </div>
     </div>
 
