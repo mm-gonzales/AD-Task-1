@@ -17,3 +17,11 @@ html, body {
     justify-content: center;
     align-items: center;
 }
+
+/*Text*/
+.landing-box{
+    text-align: center;
+    color: white;
+    padding: 40px 60px;
+}
+
