@@ -9,6 +9,7 @@
 <body>
 
     <h1>Welcome to Weekly Meal Planner</h1>
+    <a href=".page/meal-planner/index.php"
     
     <script src="./assets/js/script.js"></script>
 </body>
