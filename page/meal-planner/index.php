@@ -15,10 +15,15 @@
         <div class="table-responsive">
             <table class = "table table-bordered text-center">
                 <thead class = "table-warning">
-
+                    <tr>
+                        <th>Day</th>
+                        <th>Breakfast</th>
+                        <th>Lunch</th>
+                        <th>Dinner</th>
+                    </tr>
                 </thead>
                 <tbody>
-                    
+
                 </tbody>
             </table>
         </div>
