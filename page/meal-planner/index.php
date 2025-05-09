@@ -11,6 +11,10 @@
 
     <div class="container py-5">
         <h1 class = "text-center">Weekly Meal Plan</h1>
+
+        <div class="table-responsive">
+
+        </div>
     </div>
 </body>
 </html>
