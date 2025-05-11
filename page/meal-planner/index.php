@@ -36,13 +36,10 @@
                             echo "<tr>";
                             echo "<td>{$week[$i]}</td>"; //display day of the week
 
+                            //loop to display meals
                             for($j = 0; $j < 3; $j++){
-                                
+                                echo "<td>{$meals[$i][$j]}</td>";
                             }
-
-
-
-
                             echo "</tr>";
                         }
                     ?>
