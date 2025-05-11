@@ -32,6 +32,7 @@
                             ['Cereal', 'Wraps', 'BBQ Chicken'],  ['Bagel', 'Rice & Beans', 'Pizza'], ['French Toast', 'Ramen', 'Seafood'],  ['Smoothie', 'Pasta', 'Steak'], ['Oatmeal', 'Grilled Cheese', 'Tacos'], ['Toast & Eggs', 'Burger & Fries', 'Sushi'], ['Pancakes', 'Chicken Salad', 'Spaghetti']
                         ];
 
+                        //Outer loop to display data
                         for( $i = 0; $i < 7; $i++) {
                             echo "<tr>";
                             $week = $weeks[$i];
@@ -60,7 +61,7 @@
                                     break;
                             }
 
-                            //loop to display meals
+                            //inner loop to display meals
                             for($j = 0; $j < 3; $j++){
                                 echo "<td>{$meals[$i][$j]}</td>";
                             }
