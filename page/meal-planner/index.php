@@ -10,7 +10,10 @@
 <body>
 
     <section class="hero-section d-flex align-items-center justify-content-center text-center">
-
+        <div>
+            <h1 class="display-4 fw-bold text-black">Plan Your Meals for the Week</h1>
+            <p class="lead text-black">Eat smarter, waste less, and save time with your personalized weekly plan.</p>
+        </div>
     </section>
 
 
