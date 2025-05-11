@@ -34,7 +34,7 @@
 
                         for( $i = 0; $i < 7; $i++ ) {
                             echo "<tr>";
-                            echo "<td>{$weeks[$i]}</td>"; //display day of the week
+                             //display day of the week
 
                             //loop to display meals
                             for($j = 0; $j < 3; $j++){
