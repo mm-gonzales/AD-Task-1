@@ -41,6 +41,15 @@ html, body {
     margin-bottom: 10px;
 }
 
+h1.text-center {
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 700;
+    color: #343a40;
+    margin-bottom: 30px;
+}
+
+
+
 
 
 
