@@ -36,6 +36,10 @@
                             echo "<tr>";
                             echo "<td>{$week[$i]}</td>"; //display day of the week
 
+                            for($j = 0; $j < 3; $j++){
+                                
+                            }
+
 
 
 
