@@ -146,6 +146,5 @@ AD-ProjectName
 | Title        | Purpose                                                                       | Link          |
 | ------------ | ----------------------------------------------------------------------------- | ------------- |
 | Landing Page Image 1 | Serves as the first image that will be seen on the landing page       | https://assets.penguinrandomhouse.com/wp-content/uploads/2019/08/15161644/PRH-Meal-Planning-Email-SC-770x456-08-19.jpg |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Meal Planner Page Hero Image | Serves as the first image that will be seen on the Meal Planner Page | https://drberg-dam.imgix.net/others/healthy-food-concept-fresh-vegetables-fruits.jpg?w=992&auto=compress,format |
+
