@@ -32,9 +32,13 @@
                             ['Cereal', 'Wraps', 'BBQ Chicken'],  ['Bagel', 'Rice & Beans', 'Pizza'], ['French Toast', 'Ramen', 'Seafood'],  ['Smoothie', 'Pasta', 'Steak'], ['Oatmeal', 'Grilled Cheese', 'Tacos'], ['Toast & Eggs', 'Burger & Fries', 'Sushi'], ['Pancakes', 'Chicken Salad', 'Spaghetti']
                         ];
 
-                        for( $i = 0; $i < 10; $i++ ) {
+                        for( $i = 0; $i < 7; $i++ ) {
                             echo "<tr>";
-                            
+                            echo "<td>{$week[$i]}</td>"; //display day of the week
+
+
+
+
                             echo "</tr>";
                         }
                     ?>
