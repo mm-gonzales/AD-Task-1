@@ -9,6 +9,11 @@
 </head>
 <body>
 
+    <section class="hero-section d-flex align-items-center justify-content-center text-center">
+
+    </section>
+
+
     <div class="container py-5">
         <h1 class = "text-center">Weekly Meal Plan</h1>
 
