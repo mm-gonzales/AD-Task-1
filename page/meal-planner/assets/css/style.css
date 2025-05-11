@@ -76,6 +76,16 @@ h1.text-center::after {
     padding: 15px;
 }
 
+.table-bordered td,
+.table-bordered th {
+    border: 1px solid #dee2e6;
+}
+
+
+
+
+
+
 
 
 
