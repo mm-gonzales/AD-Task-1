@@ -32,7 +32,6 @@
                 </thead>
                 <tbody>
                     <?php 
-
                         /* Variable Declaration */
                         $weeks = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday',
                         'Saturday', 'Sunday'];
