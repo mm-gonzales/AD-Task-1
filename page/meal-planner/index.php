@@ -32,11 +32,32 @@
                             ['Cereal', 'Wraps', 'BBQ Chicken'],  ['Bagel', 'Rice & Beans', 'Pizza'], ['French Toast', 'Ramen', 'Seafood'],  ['Smoothie', 'Pasta', 'Steak'], ['Oatmeal', 'Grilled Cheese', 'Tacos'], ['Toast & Eggs', 'Burger & Fries', 'Sushi'], ['Pancakes', 'Chicken Salad', 'Spaghetti']
                         ];
 
-                        for( $i = 0; $i < 7; $i++ ) {
+                        for( $i = 0; $i < 7; $i++) {
                             echo "<tr>";
                             $week = $weeks[$i];
+                            //Conditional Statement to display weeks of the day
                             switch($week){
-
+                                case "Monday":
+                                    echo "<td>{$week} 📅</td>";
+                                    break;
+                                case "Tuesday":
+                                    echo "<td>{$week} 🌷</td>";
+                                    break;
+                                case "Wednesday":
+                                    echo "<td>{$week} 🤔</td>";
+                                    break;
+                                case "Thursday":
+                                    echo "<td>{$week} ☀️</td>";
+                                    break;
+                                case "Friday":
+                                    echo "<td>{$week} 🍸</td>";
+                                    break;
+                                case "Saturday":
+                                    echo "<td>{$week} 🏕️</td>";
+                                    break;
+                                case "Sunday":
+                                    echo "<td>{$week} 🌅</td>";
+                                    break;
                             }
 
                             //loop to display meals
