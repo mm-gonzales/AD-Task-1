@@ -46,7 +46,21 @@ h1.text-center {
     font-weight: 700;
     color: #343a40;
     margin-bottom: 30px;
+    position: relative;
 }
+
+h1.text-center::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 370px;
+    height: 2px;
+    background-color: #343a40;
+}
+
+
 
 
 
