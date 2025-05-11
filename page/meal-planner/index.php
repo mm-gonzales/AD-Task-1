@@ -11,7 +11,7 @@
 
     <section class="hero-section d-flex align-items-center justify-content-center text-center">
         <div>
-            <h1 class="display-5 fw-bold text-white">Plan Your Meals for the Week</h1>
+            <h1 class="text-white">Plan Your Meals for the Week</h1>
             <p class="lead text-white">Eat smarter, waste less, and save time with your personalized weekly plan.</p>
         </div>
     </section>
