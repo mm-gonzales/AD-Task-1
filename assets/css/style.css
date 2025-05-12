@@ -15,6 +15,14 @@ html, body {
     padding: 1rem 2rem;
 }
 
+.custom-navbar .nav-link {
+    margin: 0 10px;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+
+
 
 .landing-wrapper {
     height: 100vh;
