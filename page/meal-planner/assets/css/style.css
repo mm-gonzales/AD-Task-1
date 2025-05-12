@@ -150,7 +150,52 @@ h1.text-center::after {
     }
 }
 
+/* For mobile devices (max-width: 480px) */
+@media (max-width: 480px) {
+    .custom-navbar {
+        padding: 0.5rem;
+    }
 
+    .custom-navbar .navbar-brand {
+        font-size: 1rem;
+        padding: 20px;
+    }
+
+    .custom-navbar .nav-link {
+        margin: 0 3px;
+        font-size: 0.8rem;
+    }
+
+    .hero-section {
+        height: 40vh;
+        padding: 20px 5px;
+        margin-top: 80px;
+    }
+
+    .hero-section h1 {
+        font-size: 1.5rem;
+    }
+
+    .hero-section p {
+        font-size: 1rem;
+    }
+
+    h1.text-center {
+        font-size: 1.2rem;
+    }
+
+    h1.text-center::after {
+        width: 40%;
+    }
+
+    .table {
+        font-size: 0.6rem;
+    }
+
+    .table thead th {
+        padding: 8px;
+    }
+}
 
 
 
