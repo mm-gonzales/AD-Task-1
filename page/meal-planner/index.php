@@ -10,7 +10,24 @@
 <body>
 
 <nav class="navbar navbar-expand-lg custom-navbar fixed-top">
-    
+    <div class="container">
+        <a class="navbar-brand text-white fw-bold" href="#">Meal Planner</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <!-- <span class="navbar-toggler-icon bg-light"></span> -->
+             <img src="./assets/img/hamburger.png" alt="Menu" class="navbar-toggler-icon" width="30" height="30">
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="./index.php">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="./page/meal-planner/index.php">Weekly Plan</a>
+                </li>
+            </ul>
+        </div>
+    </div>
 </nav>
 
     <section class="hero-section d-flex align-items-center justify-content-center text-center">
