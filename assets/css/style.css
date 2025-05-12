@@ -112,4 +112,33 @@ html, body {
     }
 }
 
+/* For mobile devices (max-width: 480px) */
+@media (max-width: 480px) {
+    .custom-navbar {
+        padding: 0.5rem;
+    }
+
+    .custom-navbar .navbar-brand {
+        font-size: 1rem;
+    }
+
+    .custom-navbar .nav-link {
+        margin: 0 3px;
+        font-size: 0.8rem;
+    }
+
+    .landing-box {
+        padding: 10px 20px;
+    }
+
+    .landing-box h1 {
+        font-size: 1.8em; /* Further reduce font size */
+    }
+
+    .landing-box .btn {
+        font-size: 0.8rem; /* Adjust button size */
+        padding: 6px 10px;
+    }
+}
+
 
