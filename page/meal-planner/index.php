@@ -9,6 +9,10 @@
 </head>
 <body>
 
+<nav class="navbar navbar-expand-lg custom-navbar fixed-top">
+    
+</nav>
+
     <section class="hero-section d-flex align-items-center justify-content-center text-center">
         <div>
             <h1 class="text-white">Plan Your Meals for the Week</h1>
