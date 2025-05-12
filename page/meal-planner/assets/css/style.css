@@ -9,6 +9,18 @@ html, body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.custom-navbar {
+    background-color: rgba(0, 0, 0, 1); /* Transparent dark background */
+    z-index: 3;
+    padding: 1rem 2rem;
+    position: absolute; /* Position it at the top of the hero section */
+    top: 0;
+    left: 0;
+    width: 100%; /* Ensure it spans the full width */
+}
+
+
+
 .hero-section {
     background: url('../../assets/img/meal-plan.jpg') no-repeat center center/cover;
     height: 60vh;
