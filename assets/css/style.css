@@ -21,7 +21,14 @@ html, body {
     transition: color 0.3s ease;
 }
 
+.custom-navbar .nav-link:hover {
+    color: #ffc107 !important;
+}
 
+.custom-navbar .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
 
 
 .landing-wrapper {
