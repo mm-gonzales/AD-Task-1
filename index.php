@@ -14,7 +14,8 @@
         <a class="navbar-brand text-white fw-bold" href="#">Meal Planner</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon bg-light"></span>
+            <!-- <span class="navbar-toggler-icon bg-light"></span> -->
+             <img src="./assets/img/hamburger.png" alt="Menu" class="navbar-toggler-icon" width="30" height="30">
         </button>
         <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
             <ul class="navbar-nav">
@@ -28,10 +29,6 @@
         </div>
     </div>
 </nav>
-
-
-
-
 
     <div class="container-fluid landing-wrapper">
         <div class="landing-box">
