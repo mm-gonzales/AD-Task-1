@@ -55,9 +55,6 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-
 The Meal Planner is a web-based application designed to help users organize and visualize their weekly meals efficiently. With an intuitive interface and simple navigation, users can view a predefined weekly plan that includes breakfast, lunch, and dinner for each day. The aim is to promote better eating habits, reduce food waste, and streamline grocery planning.
 
 ### Key Components
