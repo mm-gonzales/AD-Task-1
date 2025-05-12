@@ -98,10 +98,6 @@ html, body {
         font-size: 0.9rem;
     }
 
-    .landing-wrapper {
-        height: 80vh; /* Reduce height for smaller screens */
-    }
-
     .landing-box {
         padding: 20px 30px;
     }
@@ -115,3 +111,5 @@ html, body {
         padding: 8px 12px;
     }
 }
+
+
