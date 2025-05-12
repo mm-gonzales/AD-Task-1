@@ -15,7 +15,7 @@
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <!-- <span class="navbar-toggler-icon bg-light"></span> -->
-             <img src="./assets/img/hamburger.png" alt="Menu" class="navbar-toggler-icon" width="30" height="30">
+        <img src="./assets/img/hamburger.png" alt="Menu" class="navbar-toggler-icon" width="30" height="30">
         </button>
         <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
             <ul class="navbar-nav">
@@ -101,5 +101,7 @@
             </table>
         </div>
     </div>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
 </body>
 </html>
