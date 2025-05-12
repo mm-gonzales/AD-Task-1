@@ -9,6 +9,13 @@ html, body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.custom-navbar {
+    background-color: rgba(0, 0, 0, 0.7); /* Transparent dark background */
+    z-index: 3;
+    padding: 1rem 2rem;
+}
+
+
 .landing-wrapper {
     height: 100vh;
     background: url('../img/fruits-on-table.jpg') no-repeat center center fixed;
