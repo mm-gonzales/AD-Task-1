@@ -18,31 +18,6 @@ html, body {
     align-items: center;
 }
 
-/* Navbar Styling */
-.custom-navbar {
-    position: relative;
-    z-index: 3;
-    background-color: rgba(0, 0, 0, 0.7); /* Matches your hero overlay */
-    padding: 1rem 2rem;
-}
-
-.custom-navbar .navbar-brand {
-    font-weight: bold;
-    color: #ffc107 !important;
-    font-size: 1.5rem;
-}
-
-.custom-navbar .nav-link {
-    color: #ffffff !important;
-    margin-left: 1rem;
-    transition: color 0.3s ease;
-}
-
-.custom-navbar .nav-link:hover {
-    color: #ffc107 !important;
-}
-
-
 .landing-wrapper::before{
     content: '';
     position: absolute;
