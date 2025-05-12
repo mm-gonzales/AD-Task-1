@@ -11,7 +11,7 @@
 
 <nav class="navbar navbar-expand-lg custom-navbar">
     <div class="container-fluid">
-        <a class="navbar-brand text-white" href="#">MealPlanner</a>
+        <a class="navbar-brand" href="#">MealPlanner</a>
         <button class="navbar-toggler bg-light" type="button" data-toggle="collapse" data-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>
         </button>
