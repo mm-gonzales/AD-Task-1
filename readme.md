@@ -9,11 +9,7 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
-</div>
-<!-- TODO: Make a short description -->
-<div align="center">
-  Short Description. (Optional)
+  <h3 align="center">Meal Planner</h3>
 </div>
 
 <br />
