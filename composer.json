@@ -1,15 +1,14 @@
 {
-    "name": "ramir/php-pages",
-    "type": "project",
+    "name": "michaelagonzales/ad-task-1",
     "autoload": {
         "psr-4": {
-            "Ramir\\PhpPages\\": "src/"
+            "Michaelagonzales\\AdTask1\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "zyx-0314-FJorn",
-            "email": "ramirezian037@gmail.com"
+            "name": "mm-gonzales",
+            "email": "michaela.v.gonzales@gmail.com"
         }
     ],
     "require": {}
