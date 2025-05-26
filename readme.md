@@ -4,11 +4,6 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
-  </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Meal Planner</h3>
 </div>
 
@@ -23,16 +18,12 @@
 <br />
 <br />
 
-<!-- TODO: If you want to add more layers for your readme -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#overview">Overview</a>
       <ol>
-        <li>
-          <a href="#key-components">Key Components</a>
-        </li>
         <li>
           <a href="#technology">Technology</a>
         </li>
@@ -86,36 +77,33 @@ The Meal Planner is a web-based application designed to help users organize and 
 10. File Structure to follow below.
 
 ```
-AD-ProjectName
+AD-TASK-1
 └─ assets
 |   └─ css
-|   |   └─ name.css
+|   |   └─ style.css
 |   └─ img
-|   |   └─ name.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ name.js
-└─ components
-|   └─ name.component.php
-└─ pages
-|  └─ pageName
+|   |   └─ fruits-on-table.png
+|   |   └─ hamburger.png
+└─ page
+|  └─ meal-planner
 |     └─ assets
 |     |  └─ css
-|     |  |  └─ name.css
+|     |  |  └─ style.css
 |     |  └─ img
-|     |  |  └─ name.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ name.js
+|     |  |  └─ hamburger.png
+|     |  |  └─ meal-plan.png
 |     └─ index.php
-└─ utils
-|   └─ Name.utils.php
+└─ .gitignore
+└─ bootstrap.php
+└─ composer.json
+└─ composer.lock
 └─ index.php
 └─ readme.md
+└─ router.php
 ```
 > The following should be renamed: name.css, name.js, name.jpeg/.jpg/.webp/.png, name.component.php(but not the part of the `component.php`), Name.utils.php(but not the part of the `utils.php`)
 
 ## Resources
-
-<!-- TODO: Add References -->
 
 | Title        | Purpose                                                                       | Link          |
 | ------------ | ----------------------------------------------------------------------------- | ------------- |
